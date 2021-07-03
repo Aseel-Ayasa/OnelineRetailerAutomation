@@ -1,0 +1,14 @@
+{
+  "name": "mobileshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "author": "Aseel Ayasa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  }
+}
